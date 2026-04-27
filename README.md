@@ -2,9 +2,11 @@
 
 Welcome! This repository is dedicated to my journey of learning **Object-Oriented Programming (OOP)** in Python. I'm starting from the basics and building small, clean projects to master the core concepts.
 
-## 🚀 Projects Included
-* **Simple Calculator:** A basic class-based calculator focusing on Methods and Attributes.
-* *(More projects coming soon!)*
+🚀 Projects Included
+
+    Core OOP Examples: A collection of well-documented Python scripts (like the Simple Calculator) demonstrating fundamental OOP principles.
+
+    Educational Snippets: Small, focused modules designed to simplify complex programming concepts for beginners.
 
 ## 🧠 Concepts I'm Practicing
 - [x] **Class & Objects:** Creating blueprints and real-world instances.
