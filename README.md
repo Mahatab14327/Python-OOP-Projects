@@ -12,7 +12,7 @@ Welcome! This repository is dedicated to my journey of learning **Object-Oriente
 - [x] **Class & Objects:** Creating blueprints and real-world instances.
 - [x] **Constructors:** Using `__init__` to initialize data.
 - [x] **Methods:** Defining actions within a class.
-- [ ] **Inheritance:** (Working on it!)
+- [x] **Inheritance:** (Working on it!)
 - [ ] **Encapsulation:** (Next on the list!)
 
 ## 🛠️ How to Run
